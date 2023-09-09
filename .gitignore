@@ -1,0 +1,8 @@
+*.cmake
+build/*
+lib/*
+gcoverage/*
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+_deps/*

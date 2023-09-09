@@ -2,6 +2,7 @@
 
 Flash Manager / Cache
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/tomdionysus/fmc/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tomdionysus/fmc/tree/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
